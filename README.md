@@ -102,7 +102,3 @@ npx hardhat run --network localhost scripts/deploy.js
 
 ---
 
-## ✍️ Author
-
-Developed by \[Your Name]
-If you find this helpful, ⭐️ the repo and share!
